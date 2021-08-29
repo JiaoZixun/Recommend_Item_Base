@@ -12,7 +12,7 @@
 
 item_sim.csv：
 
-![1](F:\协同过滤推荐算法\基于物品\img\1.jpg)
+![1](https://github.com/JiaoZixun/Recommend_Item_Base/blob/master/img/1.jpg)
 
 ### 2）demo2
 
@@ -22,4 +22,4 @@ item_sim.csv：
 
 用户1的推荐列表（第一列为电影id，第二列为感兴趣值）：
 
-![2](F:\协同过滤推荐算法\基于物品\img\2.jpg)
+![2](https://github.com/JiaoZixun/Recommend_Item_Base/blob/master/img/2.jpg)
